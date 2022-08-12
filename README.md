@@ -1,6 +1,6 @@
 # Sign Language Detection Project
 
-Disclaimer: I am not fluent nor educated in ASL sign language and fingerspelling, so the signs and trained and tested the model on are most likely incorrect form. The purpose of this project was solely to educate myself on object detection and classification.
+Disclaimer: I am not fluent nor educated in ASL sign language and fingerspelling, so the signs I trained and tested the model on are most likely incorrect form. The purpose of this project was solely to educate myself on object detection and classification.
 ## Live Video Feed Testing Results
 
 ### Test A
